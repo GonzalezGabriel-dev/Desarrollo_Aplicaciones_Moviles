@@ -1,3 +1,17 @@
 <resources>
     <string name="app_name">Hola Mundo</string>
+    <string name="title">Every Bite a</string>
+    <string name="subtitle">Better burger</string>
+    <string name="burger">Burger</string>
+    <string name="pasta">Pasta</string>
+    <string name="salads">Salads</string>
+    <string name="titleburguer">Beef Burguer</string>
+    <string name="ingredients">Onion whith cheese</string>
+    <string name="titleburguer1">Chicken Burguer</string>
+    <string name="ingredients1">Cheese with chicken</string>
+    <string name="titleburguer2">Classic Burguer</string>
+    <string name="ingredients2">Beef with lettuce</string>
+    <string name="titleburguer3">Grilled Burguer</string>
+    <string name="ingredients3">Griller chicken</string>
+    <string name="price">$18.00</string>
 </resources>
