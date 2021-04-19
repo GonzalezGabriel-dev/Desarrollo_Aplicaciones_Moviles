@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Evaluacion</string>
+    <string name="titulo">PhotoShare</string>
+    <string name="inputUser">Usuario</string>
+    <string name="inputPass">Password</string>
+    <string name="btnIngresar">Ingresar</string>
+    <string name="center">center</string>
+    <string name="user">Dana Milova</string>
+    <string name="nivel">Nivel: 2</string>
+    <string name="likes">Likes: 240</string>
+    <string name="numlikes">75</string>
+    <string name="numviews">80</string>
+    <string name="numshared">30</string>
+    <string name="addtitle">Añadir Título</string>
+    <string name="adddescripcion">Añadir Descripción</string>
+    <string name="contentDescription">Image</string>
+    <string name="desc">Mas relacionados</string>
+    <string name="crear">Crear</string>
+    <string name="titleDescription">Canada Lake</string>
+    <string name="descripcion">Lorem ipsum dolor sit
+amet, consectetur adipiscing elit,
+sed do eiusmod tempor incididunt
+ut labore et dolore magna aliqua. Ut
+enim ad minim veniam,</string>
+</resources>
